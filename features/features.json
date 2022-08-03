@@ -1,0 +1,18 @@
+{
+  "ingredientes":
+  {
+    "1": "Champiniones",
+    "2": "Carne",
+    "3": "Jamon",
+    "4": "Pollo",
+    "5": "Queso",
+    "6": "Arandanos",
+    "7": "Peperoni",
+    "8": "Anchoas",
+    "9": "Salmon",
+    "10": "Esparragos"},
+  "masas": {"1": "Napolitana", "2": "Tradicional", "3": "otro"},
+  "salsas": {"1": "Blanca", "2": "Cheddar", "3": "Barbacoa"},
+  "tamanio": {"1": "Personal", "2": "Mediana", "3": "Grande", "4": "Extragrande"},
+  "bordes": {"1": "Normal", "2": "Queso"}
+}
